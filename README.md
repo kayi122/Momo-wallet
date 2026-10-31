@@ -48,4 +48,3 @@ flutter test
 flutter run
 ```
 
-To run without a Firebase project, start the Firebase Local Emulator Suite (`firebase emulators:start --project demo-momo-wallet`) and run with `--dart-define=USE_EMULATOR=true`. The screenshots above were taken this way.
